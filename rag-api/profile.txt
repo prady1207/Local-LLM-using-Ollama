@@ -1,0 +1,4 @@
+My name is Pradeep Yadav, I am aspiring to become a AI Data Engineer.
+I have experience with SQL, Python, Javascript and Cloud Technologies in general.
+I am currently learning more about AI and building projects for the same purpose.
+I am definitely not a Robot!
